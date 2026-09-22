@@ -1,0 +1,8 @@
+{
+  "name": "taskflow-todo",
+  "version": "1.0.0",
+  "description": "A simple HTML, CSS and JavaScript to-do list application.",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
