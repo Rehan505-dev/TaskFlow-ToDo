@@ -31,4 +31,4 @@ try {
     throw new Error(`JavaScript syntax error: ${error.message}`);
 }
 
-console.log("All CI checks passed.");
+throw new Error("Intentional CI failure for assignment demonstration.");
