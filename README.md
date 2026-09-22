@@ -23,3 +23,6 @@ Open `index.html` in a web browser.
 
 ## CI
 GitHub Actions runs `npm test` automatically when code is pushed to the `main` branch or a pull request targets `main`.
+
+## Project Status
+The application has been tested locally and includes automated CI checks.
